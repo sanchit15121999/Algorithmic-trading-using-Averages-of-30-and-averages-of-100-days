@@ -1,0 +1,1 @@
+# Algorithmic-trading-using-Averages-of-30-and-averages-of-100-days
